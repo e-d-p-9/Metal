@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		AA024ED72BABEA58007FEA56 /* HelloTriangle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloTriangle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA024EDA2BABEA58007FEA56 /* HelloTriangleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloTriangleApp.swift; sourceTree = "<group>"; };
-		AA024EDC2BABEA58007FEA56 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AA024EDC2BABEA58007FEA56 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = HelloTriangle/ContentView.swift; sourceTree = SOURCE_ROOT; };
 		AA024EDE2BABEA5B007FEA56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA024EE12BABEA5B007FEA56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
